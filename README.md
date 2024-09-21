@@ -11,7 +11,7 @@ Fetch Transaction App is a NestJS application that allows users to manage transa
 - [API Endpoints](#api-endpoints)
 - [Running Tests](#running-tests)
 - [Docker Setup](#docker-setup)
-- [License](#license)
+
 
 ## Prerequisites
 
