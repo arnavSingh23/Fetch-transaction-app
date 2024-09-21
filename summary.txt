@@ -1,0 +1,22 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+   I chose NestJS for the backend because of its modular architecture and built-in support for TypeScript, which promotes type safety and improves code maintainability. Additionally, I utilized libraries like class-validator for data validation and Swagger for API documentation, which enhances the development experience and provides clear API endpoints.
+
+2. What are the advantages and disadvantages of your solution?
+   Advantages:
+   - **Modularity**: The NestJS framework encourages a modular design, making the codebase easier to maintain and extend.
+   - **Type Safety**: Using TypeScript reduces runtime errors and improves code quality through static type checking.
+   - **Rich Ecosystem**: The availability of various libraries and tools enhances functionality, such as data validation and API documentation.
+
+   Disadvantages:
+   - **Learning Curve**: For those unfamiliar with NestJS or TypeScript, there can be a steep learning curve.
+   - **Initial Setup**: Setting up the project and configuring dependencies can be more complex compared to simpler frameworks.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+   - My favorite project has been CoSphere, an innovative startup focused on creating a unique events and dating app, funded by BU SPARK!. This experience was transformative, allowing me to wear many hats, such as QA, designer, developer, product manager, and more. This multifaceted role helped me develop a diverse skill set, teaching me that coding frameworks and languages are merely tools to achieve a vision.
+   - I gained a deep understanding of the broader picture, enabling me to pick up new concepts quickly. Mentorship from experts in residence—seasoned software engineers—was invaluable; they imparted best practices, guided me in leading scrums, and taught me how to work effectively within an Agile methodology.
+   - One of the biggest challenges was managing user expectations, which often shifted, requiring constant adaptation in every aspect of the project. This dynamic environment honed my ability to pivot quickly and find innovative solutions, reinforcing the importance of flexibility and user-centric design in product development.
+
+Thank you for reviewing my project! I aimed to make your experience as easy as possible by allowing testing directly in the browser and providing a Docker setup for convenience. I hope this helps streamline the evaluation process.
+
+Looking forward to your feedback!
+
