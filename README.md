@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Fetch-transaction-app.git
+git clone git@github.com:arnavSingh23/Fetch-transaction-app.git
 cd Fetch-transaction-app/transaction-app
 ```
 
